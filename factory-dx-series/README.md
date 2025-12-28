@@ -1,11 +1,7 @@
-# Factory DX Series (Archive)
+# Origins
 
-This directory contains a series of texts written during practical work
-in factory and industrial system contexts.
+This directory records how architectural responsibility was narrowed,
+and what structures inevitably emerged as a result.
 
-They were recorded as observations and reflections at the time,
-prior to the formulation of VCDesign or BOA.
-
-The documents are stored as-is.
-
-No attempt has been made to revise, align, or reinterpret them.
+It does not describe philosophies, best practices, or ideal operations.
+It records decisions about what was designed — and what was deliberately left to others.
