@@ -33,6 +33,19 @@ Any architectural meaning must be derived elsewhere.
 
 ---
 
+## Relationship to VCDesign Core
+
+VCDesign Core and BOA are defined and maintained in separate repositories.
+
+This repository does not explain those specifications.
+It exists only as historical source material that predates them.
+
+For the architectural definitions, see:
+- vcdesign-core (specification)
+- PHILOSOPHY.md (design rationale)
+
+---
+
 ## Relationship to VCDesign / BOA
 
 VCDesign and BOA are defined independently, in separate repositories.
